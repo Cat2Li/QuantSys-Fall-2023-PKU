@@ -135,5 +135,5 @@ def compute_factor(data_engine: DataEngine,
 
 ### 回测净值曲线
 
-![image-20231215164933540](.\readme.png)
+![Image](readme.png)
 
